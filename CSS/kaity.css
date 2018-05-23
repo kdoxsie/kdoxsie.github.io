@@ -1,0 +1,72 @@
+html {
+    
+    background: linear-gradient(to bottom,#D6D6D6 0%, #BCCC73 100%);
+}
+
+
+body {
+    
+    width:960px;
+    
+    margin-left:auto;
+    
+    margin-right:auto;
+    
+    text-align:center;
+    
+    font-family:'Montserrat', 'Hevetica', sans-serif;
+    
+    border:8px dotted #D6D6D6;
+    
+    background-color: whitesmoke;
+    
+   
+ 
+}
+
+h1 {
+    
+    font-size: 50px;
+    font-family: 'Petit Formal Script', cursive;
+    font-weight: bold;
+    color: #bccc73;
+}
+
+a {
+    
+    text-decoration: none;
+    color: #D6D6D6;
+    font-size: 20px;
+}
+
+a:hover {
+    
+    color: #BCCC73;
+}
+
+nav {
+    
+    font-size: 30px;
+    color: #D6D6D6;
+}
+
+p  {
+    
+    color:#black;
+    font-weight: 600;
+    padding: 5px;
+    
+}
+
+h2 { 
+    
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 20px;
+    color: #BCCC73;
+
+}
+
+footer {
+    font-size: 10px
+    
+}
